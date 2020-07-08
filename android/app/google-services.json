@@ -1,0 +1,371 @@
+{
+  "project_info": {
+    "project_number": "39237583697",
+    "firebase_url": "https://maptest-4e1e0.firebaseio.com",
+    "project_id": "maptest-4e1e0",
+    "storage_bucket": "maptest-4e1e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39237583697:android:48cc65df87816d15738970",
+        "android_client_info": {
+          "package_name": "com.aberison.BOBOTaxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39237583697-b5jf89pj902pfc89ghrhk8l9hjjfve0p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aberison.BOBOTaxi",
+            "certificate_hash": "4c21a2848bb43b8d46198cafc3ede7835d49e783"
+          }
+        },
+        {
+          "client_id": "39237583697-pde9rfp93p29507dsqnu7mgae5nn56qr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3a4HO7gL1HcXfnscFKkRGJ6cnHKMDW7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39237583697-pde9rfp93p29507dsqnu7mgae5nn56qr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "39237583697-aq8u5cbabopfplhcin97utd9lsp3mat6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.boboUi"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39237583697:android:b51208f89f165f52738970",
+        "android_client_info": {
+          "package_name": "com.aberison.bobo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39237583697-ehfos5j0k21bbe534pp3n52tcag2rjuu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aberison.bobo",
+            "certificate_hash": "4c21a2848bb43b8d46198cafc3ede7835d49e783"
+          }
+        },
+        {
+          "client_id": "39237583697-pde9rfp93p29507dsqnu7mgae5nn56qr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3a4HO7gL1HcXfnscFKkRGJ6cnHKMDW7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39237583697-pde9rfp93p29507dsqnu7mgae5nn56qr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "39237583697-aq8u5cbabopfplhcin97utd9lsp3mat6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.boboUi"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39237583697:android:4dd0ef56b5d73978738970",
+        "android_client_info": {
+          "package_name": "com.aberison.bobodriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39237583697-ludl3puc44nvgnrvhojdmf2kcv3jovp2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aberison.bobodriver",
+            "certificate_hash": "4c21a2848bb43b8d46198cafc3ede7835d49e783"
+          }
+        },
+        {
+          "client_id": "39237583697-pde9rfp93p29507dsqnu7mgae5nn56qr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3a4HO7gL1HcXfnscFKkRGJ6cnHKMDW7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39237583697-pde9rfp93p29507dsqnu7mgae5nn56qr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "39237583697-aq8u5cbabopfplhcin97utd9lsp3mat6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.boboUi"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39237583697:android:0807aa95d93fea93738970",
+        "android_client_info": {
+          "package_name": "com.aberison.club"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39237583697-h56thnq2lqtcfspa6d3b7136r53cfjjh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aberison.club",
+            "certificate_hash": "4c21a2848bb43b8d46198cafc3ede7835d49e783"
+          }
+        },
+        {
+          "client_id": "39237583697-pde9rfp93p29507dsqnu7mgae5nn56qr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3a4HO7gL1HcXfnscFKkRGJ6cnHKMDW7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39237583697-pde9rfp93p29507dsqnu7mgae5nn56qr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "39237583697-aq8u5cbabopfplhcin97utd9lsp3mat6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.boboUi"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39237583697:android:3bc66815c35fbfe1738970",
+        "android_client_info": {
+          "package_name": "com.example.BOBOTaxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39237583697-g85dp1cu9ja3j7bo8dogsk6623u7pt40.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.BOBOTaxi",
+            "certificate_hash": "27f28a3efb6496bfd5ab0164aa6bfa00ed486983"
+          }
+        },
+        {
+          "client_id": "39237583697-pde9rfp93p29507dsqnu7mgae5nn56qr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3a4HO7gL1HcXfnscFKkRGJ6cnHKMDW7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39237583697-pde9rfp93p29507dsqnu7mgae5nn56qr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "39237583697-aq8u5cbabopfplhcin97utd9lsp3mat6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.boboUi"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39237583697:android:2e76c1c0304826ee738970",
+        "android_client_info": {
+          "package_name": "com.example.bobocomp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39237583697-p3tf4a2b8onrv3r7hg6pqudjotin99he.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bobocomp",
+            "certificate_hash": "54999ec57bb9cb2783b9bd9f6a3bb73b55aa8761"
+          }
+        },
+        {
+          "client_id": "39237583697-pde9rfp93p29507dsqnu7mgae5nn56qr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3a4HO7gL1HcXfnscFKkRGJ6cnHKMDW7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39237583697-pde9rfp93p29507dsqnu7mgae5nn56qr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "39237583697-aq8u5cbabopfplhcin97utd9lsp3mat6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.boboUi"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39237583697:android:e838c450763cf470738970",
+        "android_client_info": {
+          "package_name": "com.example.bobodriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39237583697-v13ntlnfd7914agcitn818lk1sgdpaqj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bobodriver",
+            "certificate_hash": "4c21a2848bb43b8d46198cafc3ede7835d49e783"
+          }
+        },
+        {
+          "client_id": "39237583697-31grnll3iga3bjiggutterkm8ltsks97.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bobodriver",
+            "certificate_hash": "27f28a3efb6496bfd5ab0164aa6bfa00ed486983"
+          }
+        },
+        {
+          "client_id": "39237583697-nm8jmb2k07rvdhsfgm1jo2ts53gmr0gi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bobodriver",
+            "certificate_hash": "54999ec57bb9cb2783b9bd9f6a3bb73b55aa8761"
+          }
+        },
+        {
+          "client_id": "39237583697-pde9rfp93p29507dsqnu7mgae5nn56qr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3a4HO7gL1HcXfnscFKkRGJ6cnHKMDW7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39237583697-pde9rfp93p29507dsqnu7mgae5nn56qr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "39237583697-aq8u5cbabopfplhcin97utd9lsp3mat6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.boboUi"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39237583697:android:36672011670280c3738970",
+        "android_client_info": {
+          "package_name": "com.example.boobo_companies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39237583697-pde9rfp93p29507dsqnu7mgae5nn56qr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3a4HO7gL1HcXfnscFKkRGJ6cnHKMDW7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39237583697-pde9rfp93p29507dsqnu7mgae5nn56qr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "39237583697-aq8u5cbabopfplhcin97utd9lsp3mat6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.boboUi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

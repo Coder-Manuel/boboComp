@@ -45,7 +45,7 @@ class _EventUiState extends State<EventUi> {
     DocumentReference companyRef =
         Firestore.instance.document('companies/${widget.companyId}');
     return ChangeNotifierProvider<EventModule>(
-      builder: (context) => EventModule(),
+      create: (context) => EventModule(),
       child: Consumer<EventModule>(
         builder: (context, _eventMoule, _) {
           return Scaffold(

@@ -61,10 +61,10 @@ class _CompanyUiState extends State<CompanyUi> {
     return MultiProvider(
       providers: [
         ChangeNotifierProvider<CompanyModule>(
-          builder: (_) => CompanyModule(),
+          create: (_) => CompanyModule(),
         ),
         ChangeNotifierProvider<ev.EventModule>(
-          builder: (_) => ev.EventModule(),
+          create: (_) => ev.EventModule(),
         )
       ],
       child: Consumer<CompanyModule>(

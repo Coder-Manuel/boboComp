@@ -31,7 +31,7 @@ class _TicketManagerUiState extends State<TicketManagerUi> {
     DocumentReference eventRef =
         Firestore.instance.document('company_events/${widget.eventId}');
     return ChangeNotifierProvider<TicketManagerModule>(
-      builder: (context) => TicketManagerModule(),
+      create: (context) => TicketManagerModule(),
       child: Consumer<TicketManagerModule>(
         builder: (context, _ticketManagerModule, _) {
           return Scaffold(

@@ -58,7 +58,7 @@ class MyApp extends StatelessWidget {
       ),
       home: MultiProvider(providers: [
         ChangeNotifierProvider<ClubModule>(
-          builder: (context) => ClubModule(),
+          create: (context) => ClubModule(),
         ),
         ChangeNotifierProvider.value(
           value: AppState(),
